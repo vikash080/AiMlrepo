@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 1.sorry for the wrong spelling
 2.no need to push if we are making changes in remote repo.
 3.4fa9b6e72e13985efa7a2f9366289b32f9968df6
 4. git commit is a command to shift the file to the stage mode
-=======
-sorry for the wrong spelling
-no need to push if we are making changes in remote repo.
-4fa9b6e72e13985efa7a2f9366289b32f9968df6
->>>>>>> 5be60555684e1e7ee4555b63af330baa164f93ca
+
